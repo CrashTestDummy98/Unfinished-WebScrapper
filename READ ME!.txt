@@ -1,0 +1,8 @@
+Name: Shane Tomasello
+Date: 7/10/20
+
+Note: This code is not working unfortinatly. I have done a lot of research in
+order to attempt to get this web scrapper working. I however hit a wall and was
+not able to finish this code at this time. I however did learn how to code in 
+python a lot better and even managed to learn how to read HTML code in the 
+process. I hope my efforts can be recognized. Thank you for your time. 
